@@ -1,1 +1,11 @@
+.vscode/
+__pycache__/
+*.pyc
+.env
+*.db
+*.sqlite3
+*.log
+*.zip
+node_modules/
+venv/
 
