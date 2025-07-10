@@ -1,4 +1,4 @@
-State,Year,Quater,Insurance_district,Insurance_count,Insurance_amount
+State,Year,Quater,Insurance_type,Insurance_count,Insurance_amount
 Andaman and Nicobar Islands,2020,2,south andaman district,3,795.0
 Andaman and Nicobar Islands,2020,2,nicobars district,3,565.0
 Andaman and Nicobar Islands,2020,3,north and middle andaman district,1,281.0
